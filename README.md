@@ -5,6 +5,8 @@ This project estimates failure probability when applied loads can exceed materia
 
 ![Mechanical Reliability Monte Carlo - What It Can Do](what-it-can-do.svg)
 
+![Simulation Result Histogram](simulation-result.png)
+
 ## Features
 - Reproducible Monte Carlo runs with configurable random seed.
 - CLI parameters for means, standard deviations, and simulation count.
