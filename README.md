@@ -3,6 +3,8 @@ Monte Carlo reliability simulation for mechanical systems.
 
 This project estimates failure probability when applied loads can exceed material strength under uncertain conditions.
 
+![Mechanical Reliability Monte Carlo - What It Can Do](what-it-can-do.svg)
+
 ## Features
 - Reproducible Monte Carlo runs with configurable random seed.
 - CLI parameters for means, standard deviations, and simulation count.
